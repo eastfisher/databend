@@ -60,7 +60,7 @@ async-trait = "0.1.51"
 webbrowser = "0.5.5"
 async-std = "1.10.0"
 tryhard = "0.4.0"
-tokio-util = "0.6.9"
+tokio-util = "0.7.2"
 csv = "1.1.6"
 http = "0.2.5"
 
